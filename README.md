@@ -1,5 +1,5 @@
 # LUNAR
-## Official Implementation of ["LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks"]()
+### Official Implementation of ["LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks"]()
 
 Adam Goodge, Bryan Hooi, Ng See Kiong and Ng Wee Siong (AAAI2022)
 
