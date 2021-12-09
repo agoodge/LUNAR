@@ -9,12 +9,14 @@ Adam Goodge, Bryan Hooi, Ng See Kiong and Ng Wee Siong (AAAI2022)
 - utils.py : functions for loading datasets, pre-processing, graph construction, negative-sampling
 - LUNAR.py : GNN model and training procedure
 - requirements.txt : packages for virtualenv
-
-We provide the trained models for the HRSS dataset with neighbour count k = 100 with the "Mixed" negative sampling scheme
-
+- data.zip : files for the HRSS dataset
+- saved_models.zip : pretrained LUNAR models for HRSS with neighbour count k = 100 and "Mixed" negative sampling
 
 ## Experiments
-To replicate the results on the HRSS dataset with neighbour count k = 100 and "Mixed" negative sampling scheme:
+
+Unzip data.zip and saved_models.zip
+
+To replicate the results on the HRSS dataset with neighbour count k = 100 and "Mixed" negative sampling scheme
 
 ```
 python3 main.py --dataset HRSS --samples MIXED --k 100"
