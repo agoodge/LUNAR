@@ -14,15 +14,19 @@ Adam Goodge, Bryan Hooi, Ng See Kiong and Ng Wee Siong (AAAI2022)
 
 ## Experiments
 
-Firstly, unzip data.zip and saved_models.zip 
+Firstly, extract data.zip
 
 To replicate the results on the HRSS dataset with neighbour count k = 100 and "Mixed" negative sampling scheme
 
+- Extract saved_models.zip
+- Run:
 ```
 python3 main.py --dataset HRSS --samples MIXED --k 100"
 ```
 
 To train a new model:
+ 
+- Run:
 
 ```
 python3 main.py --dataset HRSS --samples MIXED --k 100 --train_new_model"
