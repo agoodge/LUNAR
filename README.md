@@ -14,7 +14,7 @@ Adam Goodge, Bryan Hooi, Ng See Kiong and Ng Wee Siong (AAAI2022)
 
 ## Experiments
 
-Unzip data.zip and saved_models.zip
+Firstly, unzip data.zip and saved_models.zip 
 
 To replicate the results on the HRSS dataset with neighbour count k = 100 and "Mixed" negative sampling scheme
 
