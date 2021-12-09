@@ -25,7 +25,7 @@ To replicate the results on the HRSS dataset with neighbour count k = 100 and "M
 - Extract saved_models.zip
 - Run:
 ```
-python3 main.py --dataset HRSS --samples MIXED --k 100"
+python3 main.py --dataset HRSS --samples MIXED --k 100
 ```
 
 To train a new model:
@@ -33,7 +33,7 @@ To train a new model:
 - Run:
 
 ```
-python3 main.py --dataset HRSS --samples MIXED --k 100 --train_new_model"
+python3 main.py --dataset HRSS --samples MIXED --k 100 --train_new_model
 ```
 
 ## Citation
