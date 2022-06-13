@@ -37,5 +37,12 @@ python3 main.py --dataset HRSS --samples MIXED --k 100 --train_new_model
 ```
 
 ## Citation
-TBC
+```
+@inproceedings{goodge2022lunar,
+  title={LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks},
+  author={Goodge, Adam and Hooi, Bryan and Ng, See Kiong and Ng, Wee Siong},
+  journal={AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2022}
+}
+```
 
