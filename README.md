@@ -7,8 +7,6 @@ Many well-established anomaly detection methods use the distance of a sample to 
 News: LUNAR has been implemented in the anomaly detection benchmark library [PyOD](https://pyod.readthedocs.io/en/latest/).
 -------------------------------------------------------
 
-
-
 ## Files
 - main.py
 - variables.py : hyperparameters
