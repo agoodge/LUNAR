@@ -19,14 +19,14 @@ News: LUNAR has been implemented in the anomaly detection benchmark library [PyO
 - saved_models.zip : pretrained LUNAR models for HRSS with neighbour count k = 100 and "Mixed" negative sampling
 
 ## Data
-- MI-F/MI-V: https://www.kaggle.com/shasun/tool-wear-detection-in-cnc-mill
-- OPTDIGITS/PENDIGITS/SATELLITE/SHUTTLE/THYROID: http://odds.cs.stonybrook.edu
+- [MI-F/MI-V](https://www.kaggle.com/shasun/tool-wear-detection-in-cnc-mill)
+- [OPTDIGITS/PENDIGITS/SATELLITE/SHUTTLE/THYROID](http://odds.cs.stonybrook.edu)
 
 ## Experiments
 
-Firstly, extract data.zip
+Datasets can be extracted from ```data.zip```
 
-To replicate the results on the HRSS dataset with neighbour count k = 100 and "Mixed" negative sampling scheme
+To replicate the results on the HRSS dataset with neighbour count k = 100 and "Mixed" negative samples
 
 - Extract saved_models.zip
 - Run:
