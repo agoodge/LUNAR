@@ -8,13 +8,13 @@ News: LUNAR has been implemented in the anomaly detection benchmark library [PyO
 -------------------------------------------------------
 
 ## Files
-- main.py
-- variables.py : hyperparameters
-- utils.py : functions for loading datasets, pre-processing, graph construction, negative-sampling
-- LUNAR.py : GNN model and training procedure
-- requirements.txt : packages for virtualenv
-- data.zip : files for the HRSS dataset
-- saved_models.zip : pretrained LUNAR models for HRSS with neighbour count k = 100 and "Mixed" negative sampling
+- ```main.py```
+- ```variables.py``` : hyperparameters
+- ```utils.py``` : functions for loading datasets, pre-processing, graph construction, negative-sampling
+- ```LUNAR.py``` : GNN model and training procedure
+- ```requirements.txt``` : packages for virtualenv
+- ```data.zip``` : files for the HRSS dataset
+- ```saved_models.zip``` : pretrained LUNAR models for HRSS with neighbour count k = 100 and "Mixed" negative sampling
 
 ## Data
 - [MI-F/MI-V](https://www.kaggle.com/shasun/tool-wear-detection-in-cnc-mill)
