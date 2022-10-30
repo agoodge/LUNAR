@@ -28,7 +28,7 @@ Datasets can be extracted from ```data.zip```
 
 To replicate the results on the HRSS dataset with neighbour count k = 100 and "Mixed" negative samples
 
-- Extract saved_models.zip
+- Extract ```saved_models.zip```
 - Run:
 ```
 python3 main.py --dataset HRSS --samples MIXED --k 100
